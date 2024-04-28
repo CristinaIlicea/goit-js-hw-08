@@ -1,5 +1,5 @@
-import library from vimoeo/player.js;
-import "https://github.com/vimeo/player.js/tree/master/src/lib";
+import library from './vimeo/player.js';
+import "github.com/vimeo/player.js/tree/master/src/lib";
 var throttle = require('lodash.throttle');
 
 const iframe = document.querySelector('iframe');
