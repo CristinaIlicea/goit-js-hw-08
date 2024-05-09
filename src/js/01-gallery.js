@@ -1,5 +1,7 @@
+// Descris în documentație
 import SimpleLightbox from "simplelightbox";
-import "./simplelightbox/dist/simple-lightbox.min.css";
+// Import suplimentar de stil
+import "simplelightbox-master/dist/simple-lightbox.min.css";
 
 // Add imports above this line
 import { galleryItems } from './gallery-items';
